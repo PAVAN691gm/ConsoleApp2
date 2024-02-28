@@ -1,4 +1,12 @@
-﻿class BubbleSort
+﻿
+/*
+Author: Mohan Ananta Venkata Pavan Gamidi
+Date: 2/28/2024
+Comments: This C# Console Application code demonstrates the Bubble Sort Algorithms.
+*/
+
+
+class BubbleSort
 {
     static void Main(string[] args)
     {
